@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ipynb": "python",
+        "iostream": "cpp",
+        "complex": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "iomanip": "cpp"
+    }
+}
